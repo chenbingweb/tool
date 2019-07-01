@@ -1,0 +1,93 @@
+.confirmPage
+{
+    padding-bottom: 100px;
+}
+.confirmPage .title_2
+{
+    font-size: 28px;
+    color:#333;
+    line-height: 70px;
+    width: 750px;
+    box-sizing: border-box;
+    padding: 0 30px;
+    background-color: #f8f8f8;
+    text-align: left;
+    margin: 0;
+}
+.confirmPage  .info_2
+{
+    width: 750px;
+    margin: 0 auto;
+    height: 90px;
+    box-sizing: border-box;
+    padding: 0 30px;
+    border-bottom: 1px solid #e5e5e5;
+}
+.confirmPage  .remark
+{
+    width: 750px;
+    margin: 0 auto;
+    min-height: 143px;
+    box-sizing: border-box;
+    padding: 30px;
+    border-bottom: 1px solid #e5e5e5;
+}   
+.confirmPage  .remark p
+{
+    text-align: left;
+}
+.confirmPage  .remark p:nth-of-type(1)
+{
+    margin-bottom: 20px;
+}
+.confirmPage .pay_box
+{
+    position: fixed;
+    width: 750px;
+    height: 90px;
+    left: 0;
+    bottom: 0;
+    background-color: #fff;
+    box-sizing: border-box;
+
+}
+.confirmPage .to_pay
+{
+    width: 180px;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    color:#fff;
+    background-color: #e26161;
+    font-size: 28px;
+    
+}
+.confirmPage .pay_info_box_1
+{
+    width: calc(750px - 180px);
+    height: 80px;
+    border-top: 1px solid #e5e5e5;
+    box-sizing: border-box;
+    padding-left: 30px;
+}
+.confirmPage .pay_info_box_1 span:nth-of-type(1)
+{
+    font-size: 22px;
+    color:#333;
+}
+.confirmPage .pay_info_box_1 span:nth-of-type(2)
+{
+    font-size: 33px;
+    color:#e26161;
+    padding-left: 10px;
+}
+.confirmPage .remark_content
+{
+    color:#999;
+    font-size: 22px;
+}
+.confirmPage .select_radio
+{
+    width: 30px;
+    height: 30px;
+}

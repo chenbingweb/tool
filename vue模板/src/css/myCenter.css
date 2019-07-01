@@ -1,0 +1,31 @@
+.img img
+{
+    width: 750px;
+    height: 330px;
+}
+.photo img
+{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.info_3
+{
+    flex-direction: column;
+}
+.user_name
+{
+    text-align: center;
+    font-size: 32px;
+    color:white;
+    line-height: 50px;
+}
+.phone_num
+{
+    font-size:28px;
+}
+.info_icon
+{
+    width: 37px;
+    height: 36px;
+}
