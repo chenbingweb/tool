@@ -1,0 +1,33 @@
+﻿runas /noprofile /user:Administrator cmd 
+
+
+npm config set registry http://registry.npmjs.org/
+ //淘宝镜像
+npm config set registry https://registry.npm.taobao.org
+
+登录npm npm login
+npm adduser 
+发布代码
+npm publish
+
+
+查看包版本
+npm view swiper-base  version
+
+更新版本
+npm version <update_type> 
+
+npm version patch
+npm version minor
+npm version majo
+
+patch：这个是补丁的意思，补丁最合适；
+
+
+minor：这个是小修小改；
+
+  
+major：这个是大改咯；
+ 
+jorn_chen
+Wap3gqqcoM

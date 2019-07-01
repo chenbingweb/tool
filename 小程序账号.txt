@@ -1,0 +1,140 @@
+
+cargamecb@sina.com
+wap3gqqcom
+
+
+阿拉丁流量主：http://ssp.xmadx.com
+
+账号：17600445520
+密码：quwen2018
+
+1102345242@qq.com
+
+qq234526
+新小程序
+maidanshenqi@sina.com(li)
+wap
+
+jeemoo_张楠:xiaochengxu@jeemoo.net_张楠:
+5iportal
+
+
+
+cbghxy88@2980.com
+wap
+AppID(小程序ID) wx0e7d0f46bc3e2050
+AppSecret(小程序密钥) 789524cbeb8e82d872a8005974b05a6e 复制
+
+
+
+诗词猜一猜 pintugame@sina.com  wap3g__
+ appid wx5d465f45ab284ac3  b3d03975d4eb459b4ab70533461ba181
+
+
+
+腾讯云服务器账号
+1102345268
+
+
+dzh1413..
+
+远程服务器
+192.144.157.211
+Administrator
+dzh1314!@#$%
+https://47.95.199.225/svn/Stars_comm
+
+拼图世界
+1102345268@qq.com
+qq234526
+
+腾讯云密码
+cbghxy1314!@#$
+
+古诗小程序
+
+邮箱wx8d4b9a548dbad73b
+拼图大王
+m17600445520@163.com 
+wap3gqqcom
+
+**
+
+b201893b25def294a374dccf73b7a1ae
+
+wx8d4b9a548dbad73b
+***
+appid wx8d4b9a548dbad73b
+as bed945258e5576e7cd86086e58f063b3  
+小程序（新号）
+1102345242@qq.com
+qq234526
+个人公众号
+1293635017@qq.com
+qq234526
+
+AppID(小程序ID) wx4095543eabcd0476
+AppSecret(小程序密钥) 2a161ca1a97c0659df2a953daf348073 复制
+
+https://engine.xmadx.net
+https://log.xmadx.net
+
+desc//dx
+asc//zx
+sort
+
+,
+    "pages/activeMember/activeMember"
+
+https://log.aldwx.com
+https://plog.xiaoshentui.com
+https://config-1253148048.cos.ap-beijing.myqcloud.com
+https://config-1253148048.cosbj.myqcloud.com
+https://engine.xmadx.net
+https://log.xmadx.net
+
+
+
+,
+         {
+             "img_url":"https://gameimg-1253148048.cos.ap-chengdu.myqcloud.com/ptgame.png",
+              "name":"拼图大王",
+              "appid":"wx8d4b9a548dbad73b"
+        }
+engine.xmadx.net
+log.xmadx.net
+
+"pages/searchList/searchList",
+    "pages/myCollection/myCollection",
+    "pages/selfRelease/selfRelease",
+    "pages/middleRelease/middleRelease",
+    "pages/jobRelease/jobRelease",
+    "pages/bossSelectJob/bossSelectJob",
+    "pages/companyAddress/companyAddress",
+    "pages/fillCompany/fillCompany",
+    "pages/bossReleasSucc/bossReleasSucc",
+    "pages/examiningTip/examiningTip",
+    "pages/middleExamine/middleExamine",
+    "pages/workDetail/workDetail",
+    "pages/jobDetail/jobDetail",
+    "pages/sellHouseDetail/sellHouseDetail",
+    "pages/houseMidd/houseMidd",
+    "pages/bossList/bossList",
+    "pages/ownServices/ownServices",
+    "pages/buildDetail/buildDetail",
+    "pages/myWealth/myWealth",
+    "pages/userCoinLog/userCoinLog",
+    "pages/search/search",
+    "pages/sellBuld/sellBuld",
+    "pages/inforRelease/inforRelease",
+    "pages/makeCoin/makeCoin",
+    "pages/infoRelDetail/infoRelDetail",
+    "pages/signPage/signPage",
+    "pages/rentHouseDetail/rentHouseDetail",
+    "pages/myCenter/myCenter",
+    "pages/xiongxinHistory/xiongxinHistory",
+    "pages/historyList/historyList",
+    "pages/personInfo/personInfo",
+    "pages/wantWork/wantWork",
+    "pages/releaseHistory/releaseHistory",
+    "pages/aboutMe/aboutMe"
