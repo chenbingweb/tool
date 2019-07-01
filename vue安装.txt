@@ -1,0 +1,10 @@
+1 安装 vue-clic
+	npm install -g vue-cli
+2 查看版本
+	vue -V
+3 安装官方推荐版本
+	vue init webpack <项目名称>
+4 提示用户初始项目信息 
+
+5 安装成功后，cd <项目名> npm install -->npm run dev 
+
